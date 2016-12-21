@@ -10,7 +10,7 @@
         "spec": "latest",
         "type": "tag"
       },
-      "C:\\Users\\Sebastián\\WebstormProjects\\TeleBot1"
+      //"path\to\project"
     ]
   ],
   "_from": "tgfancy@latest",
@@ -45,7 +45,7 @@
   "_shasum": "42f8f208dba8b51a973520fc64ca4894ab0ce4bb",
   "_shrinkwrap": null,
   "_spec": "tgfancy",
-  "_where": "C:\\Users\\Sebastián\\WebstormProjects\\TeleBot1",
+  "_where": //"path\to\project",
   "author": {
     "name": "GochoMugo",
     "url": "www.gmugo.in"
