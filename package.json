@@ -1,0 +1,111 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "tgfancy",
+        "scope": null,
+        "escapedName": "tgfancy",
+        "name": "tgfancy",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Sebastián\\WebstormProjects\\TeleBot1"
+    ]
+  ],
+  "_from": "tgfancy@latest",
+  "_id": "tgfancy@0.4.0",
+  "_inCache": true,
+  "_location": "/tgfancy",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/tgfancy-0.4.0.tgz_1478775348973_0.9329533374402672"
+  },
+  "_npmUser": {
+    "name": "gochomugo",
+    "email": "mugo@forfuture.co.ke"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "tgfancy",
+    "scope": null,
+    "escapedName": "tgfancy",
+    "name": "tgfancy",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/tgfancy/-/tgfancy-0.4.0.tgz",
+  "_shasum": "42f8f208dba8b51a973520fc64ca4894ab0ce4bb",
+  "_shrinkwrap": null,
+  "_spec": "tgfancy",
+  "_where": "C:\\Users\\Sebastián\\WebstormProjects\\TeleBot1",
+  "author": {
+    "name": "GochoMugo",
+    "url": "www.gmugo.in"
+  },
+  "bugs": {
+    "url": "https://github.com/GochoMugo/tgfancy/issues"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "debug": "^2.2.0",
+    "lodash": "^4.16.6",
+    "node-pwr": "^0.24.0",
+    "tg-resolve": "^1.3.0"
+  },
+  "description": "A Fancy, Higher-Level Wrapper for Telegram Bot API",
+  "devDependencies": {
+    "coveralls": "^2.11.14",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-eslint": "^19.0.0",
+    "grunt-mocha-test": "^0.13.2",
+    "istanbul": "^0.4.5",
+    "load-grunt-tasks": "^3.5.2",
+    "mocha": "^3.1.2",
+    "mocha-lcov-reporter": "^1.2.0",
+    "should": "^11.1.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "42f8f208dba8b51a973520fc64ca4894ab0ce4bb",
+    "tarball": "https://registry.npmjs.org/tgfancy/-/tgfancy-0.4.0.tgz"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "gitHead": "1ae1a9be55423d5a6be4b5c7090fbfd9e2adbad3",
+  "homepage": "https://github.com/GochoMugo/tgfancy#readme",
+  "keywords": [
+    "telegram",
+    "bot",
+    "api"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "name": "gochomugo",
+      "email": "mugo@forfuture.co.ke"
+    }
+  ],
+  "name": "tgfancy",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GochoMugo/tgfancy.git"
+  },
+  "scripts": {
+    "test": "grunt test",
+    "test-coverage": "istanbul cover _mocha --report lcovonly -- -R spec test/test.*.js"
+  },
+  "version": "0.4.0"
+}
