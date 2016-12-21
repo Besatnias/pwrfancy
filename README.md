@@ -4,6 +4,8 @@ Here I just substitute all instances of telegram.org for pwrtelegram.xyz
 
 It doesn't work.
 
+----------------
+
 # tgfancy
 
 > A Fancy, Higher-Level Wrapper for Telegram Bot API
