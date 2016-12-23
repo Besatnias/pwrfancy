@@ -2,7 +2,7 @@ Original is https://github.com/GochoMugo/tgfancy
 
 Here I just substitute all instances of telegram.org for pwrtelegram.xyz
 
-It doesn't work.
+Now it works. Read notes in [pwr-node][pwr-node]
 
 ----------------
 
