@@ -2,7 +2,7 @@ Original is https://github.com/GochoMugo/tgfancy
 
 Here I just substitute all instances of telegram.org for pwrtelegram.xyz
 
-Now it works. Read notes in [pwr-node](http://github.com/Besatnias/pwr-node)
+Now it works. Read notes in [pwr-node](http://github.com/Besatnias/pwr-node). Any questions, go to [@Bestulo](https://telegram.me/Bestulo) in Telegram.
 
 ----------------
 
