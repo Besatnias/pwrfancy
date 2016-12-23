@@ -51,7 +51,7 @@ Therefore, you **MUST** know how to work with [telegram-bot-api][api]
 before using this wrapper. **tgfancy** is a **drop-in replacement**!
 
 **tgfancy** provides **ALL** the methods exposed by [**TelegramBot**][api-bot]
-from [node-pwr][api]. This means that all the methods from
+from [node-telegram-bot-api][api]. This means that all the methods from
 **TelegramBot** are available on **Tgfancy**. This also includes the
 constructor.
 
