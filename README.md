@@ -10,7 +10,7 @@ Now it works. Read notes in [pwr-node](http://github.com/Besatnias/pwr-node). An
 
 > A Fancy, Higher-Level Wrapper for Telegram Bot API
 >
-> Built on top of [node-pwr][api].
+> Built on top of [node-telegram-bot-api][api].
 >
 > :construction: **Work In Progress** :construction:
 
